@@ -87,7 +87,7 @@
 		<framework src="com.crashlytics.sdk.android:crashlytics:$ANDROID_CRASHLYTICS_VERSION" />
 		<framework src="com.crashlytics.sdk.android:crashlytics-ndk:$ANDROID_CRASHLYTICS_NDK_VERSION" />
 		<framework src="com.google.code.gson:gson:$ANDROID_GSON_VERSION" />
-		<framework src="com.google.firebase:firebase-iid:21.1.0">
+		<framework src="com.google.firebase:firebase-iid:21.1.0" />
 	</platform>
 
 	<platform name="ios">
